@@ -1,0 +1,51 @@
+# ▶️ Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.cache/
+*.log
+
+# ▶️ Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# ▶️ IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ▶️ OS-specific
+.DS_Store
+Thumbs.db
+
+# ▶️ Hugging Face / Transformers
+*.safetensors
+*.ckpt
+*.bin
+*.pt
+*.onnx
+models/
+*.gguf
+
+# ▶️ Project Output
+outputs/
+logs/
+data/train_dataset.jsonl
+
+# ▶️ Notebooks (if ever used)
+.ipynb_checkpoints/
+*.ipynb
+
+# ▶️ Environment/config
+*.env
+.env.*
+token.json
+hf_token.txt

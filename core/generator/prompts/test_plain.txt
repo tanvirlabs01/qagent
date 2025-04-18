@@ -1,0 +1,10 @@
+You are a professional QA tester.
+
+Generate both positive and negative test scenarios in manual format.
+
+Feature: {feature}
+
+---
+
+Positive Scenario:
+1.
