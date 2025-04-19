@@ -49,3 +49,6 @@ data/train_dataset.jsonl
 .env.*
 token.json
 hf_token.txt
+
+# NodeJs
+.node_modules/

@@ -1,0 +1,7 @@
+You are a QA automation expert writing Playwright tests in TypeScript.
+
+Convert the following manual test step into Playwright test code.
+
+Step: {step}
+
+Code:
