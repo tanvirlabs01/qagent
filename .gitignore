@@ -51,4 +51,4 @@ token.json
 hf_token.txt
 
 # NodeJs
-.node_modules/
+node_modules/
